@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "相対♡night",
+  "base_artist": "hisui",
+  "createdAt": "2026-03-20T06:16:01.097698Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "相対♡night (feat. 花芽すみれ)",
+      "artist": "hisui",
+      "has_synced": false,
+      "path": "select/pl_01_相対♡night_(feat._花芽すみれ)_hisui.txt"
+    }
+  ]
+}
